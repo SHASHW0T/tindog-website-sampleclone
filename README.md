@@ -1,1 +1,1 @@
-# tindog-website-sampleclone
+TinDog Starting Files
